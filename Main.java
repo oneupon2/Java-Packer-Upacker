@@ -33,7 +33,7 @@ class Main
                     Unpacker obj = new Unpacker(name);
                     break;
                 case 3:
-                    System.out.println("Thank you for using Marvellous Packer Unpacker");
+                    System.out.println("Thank you for using Packer Unpacker");
                     System.exit(0);
                     break;
                 default:
